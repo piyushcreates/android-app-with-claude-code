@@ -59,7 +59,7 @@ scripts/         Upload-key helper
 ```
 
 ## License
-The source code is released under the [MIT License](LICENSE). The **Gut Elements name and logo are not covered**: they're trademarks of their owner and may not be used to publish your own app. If you build on this code, use your own name, icon and package name.
+The source code is released under the [MIT License](LICENSE). The **Gut Elements name and logo are not covered** ([NOTICE](NOTICE)): they're trademarks of their owner and may not be used to publish your own app. If you build on this code, use your own name, icon and package name.
 
 ## Disclaimer
 Gut Elements is for personal tracking and education. It is not a medical device and does not provide diagnosis or treatment.
