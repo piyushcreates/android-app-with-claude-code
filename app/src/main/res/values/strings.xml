@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gut Elements</string>
+
+    <!-- Navigation -->
+    <string name="nav_today">Today</string>
+    <string name="nav_history">History</string>
+    <string name="nav_insights">Insights</string>
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="close">Close</string>
+
+    <!-- Bristol types -->
+    <string name="type_number">Type %1$d</string>
+    <string name="bristol_1_name">Separate hard lumps</string>
+    <string name="bristol_1_desc">Like nuts, hard to pass</string>
+    <string name="bristol_2_name">Lumpy sausage</string>
+    <string name="bristol_2_desc">Sausage-shaped but lumpy</string>
+    <string name="bristol_3_name">Sausage with cracks</string>
+    <string name="bristol_3_desc">Cracks on the surface</string>
+    <string name="bristol_4_name">Smooth and soft</string>
+    <string name="bristol_4_desc">Like a smooth sausage or snake</string>
+    <string name="bristol_5_name">Soft blobs</string>
+    <string name="bristol_5_desc">Clear-cut edges, passed easily</string>
+    <string name="bristol_6_name">Mushy</string>
+    <string name="bristol_6_desc">Fluffy pieces with ragged edges</string>
+    <string name="bristol_7_name">Liquid</string>
+    <string name="bristol_7_desc">Watery, no solid pieces</string>
+
+    <!-- Onboarding -->
+    <string name="onb1_title">Understand your gut, one log at a time.</string>
+    <string name="onb1_benefit1_title">Track in seconds</string>
+    <string name="onb1_benefit1_body">Pick a type, tap save. That’s it.</string>
+    <string name="onb1_benefit2_title">Review your history</string>
+    <string name="onb1_benefit2_body">Every entry, by day, in one place.</string>
+    <string name="onb1_benefit3_title">Understand your patterns</string>
+    <string name="onb1_benefit3_body">Simple statistics from your own logs.</string>
+    <string name="onb_continue">Continue</string>
+    <string name="onb2_title">The Bristol Stool Scale</string>
+    <string name="onb2_body">Seven types describe stool form, from hard lumps to liquid. You’ll pick the one that best matches each time you log.</string>
+    <string name="onb2_typical">Types 3 and 4 are generally considered the typical range.</string>
+    <string name="onb_disclaimer">For personal tracking and education, not medical diagnosis.</string>
+    <string name="onb_get_started">Get started</string>
+
+    <!-- Today -->
+    <string name="today_headline">How’s your gut today?</string>
+    <string name="today_card_label">Today</string>
+    <plurals name="today_count">
+        <item quantity="one">bowel movement</item>
+        <item quantity="other">bowel movements</item>
+    </plurals>
+    <string name="today_latest">Latest: Type %1$d · %2$s</string>
+    <string name="today_empty">Nothing logged yet today.</string>
+    <string name="log_bowel_movement">Log bowel movement</string>
+    <string name="today_entries">Today’s entries</string>
+    <string name="this_week">This week</string>
+    <string name="week_movements">Bowel movements</string>
+    <string name="week_type34">Type 3–4</string>
+    <string name="no_value">—</string>
+    <string name="percent">%1$d%%</string>
+
+    <!-- Log -->
+    <string name="log_question">Which type best matches?</string>
+    <string name="save">Save</string>
+    <string name="when_label">When</string>
+    <string name="change">Change</string>
+    <string name="today_at">Today, %1$s</string>
+    <string name="yesterday_at">Yesterday, %1$s</string>
+    <string name="date_at">%1$s, %2$s</string>
+    <string name="future_time_error">Time can’t be in the future.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="select_time">Select time</string>
+
+    <!-- History -->
+    <string name="history_title">History</string>
+    <string name="calendar">Calendar</string>
+    <string name="list">List</string>
+    <string name="previous_month">Previous month</string>
+    <string name="next_month">Next month</string>
+    <string name="history_day_empty">No entries on this day.</string>
+    <string name="history_empty">Your entries will appear here once you start logging.</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <plurals name="entries_count">
+        <item quantity="one">%d entry</item>
+        <item quantity="other">%d entries</item>
+    </plurals>
+
+    <!-- Edit -->
+    <string name="edit_entry">Edit entry</string>
+    <string name="save_changes">Save changes</string>
+    <string name="delete_entry">Delete entry</string>
+    <string name="delete_entry_confirm_title">Delete this entry?</string>
+    <string name="delete_entry_confirm_body">This can’t be undone.</string>
+    <string name="delete">Delete</string>
+
+    <!-- Insights -->
+    <string name="insights_title">Insights</string>
+    <string name="period_week">Week</string>
+    <string name="period_month">Month</string>
+    <string name="period_3months">3 Months</string>
+    <string name="stat_total">Bowel movements</string>
+    <string name="stat_per_day">%1$s per day on average</string>
+    <string name="stat_type34">Type 3–4</string>
+    <string name="stat_type34_caption">of your logs</string>
+    <string name="stat_most_common">Most common type</string>
+    <string name="stat_most_common_tie">Types %1$s</string>
+    <string name="chart_title">Your stool types</string>
+    <string name="insights_summary_week">Your logs show Type %1$d most often this week.</string>
+    <string name="insights_summary_month">Your logs show Type %1$d most often this month.</string>
+    <string name="insights_summary_3months">Your logs show Type %1$d most often over the last 3 months.</string>
+    <string name="insights_summary_tie">Your logs show an even split between Types %1$s.</string>
+    <string name="insights_empty">No logs in this period yet. Your statistics will appear here as you log.</string>
+    <string name="insights_note">Insights describe your own logs. They aren’t a diagnosis.</string>
+
+    <!-- Settings -->
+    <string name="settings_privacy">Privacy</string>
+    <string name="settings_privacy_body">Your logs are stored only on this device. There’s no account, no cloud sync and no backup to other services. Uninstalling the app removes your data.</string>
+    <string name="settings_privacy_policy">Read the privacy policy</string>
+    <string name="settings_disclaimer">Medical disclaimer</string>
+    <string name="settings_disclaimer_body">Gut Elements is for personal tracking and education. It doesn’t diagnose, treat or give medical advice. If you have persistent changes or concerns, speak with a qualified healthcare professional.</string>
+    <string name="settings_about">About Gut Elements</string>
+    <string name="settings_about_body">Independent, evidence-aware information on gut health and fiber supplements.</string>
+    <string name="settings_website">Visit gutelements.com</string>
+    <string name="settings_version">Version %1$s</string>
+    <string name="settings_data">Your data</string>
+    <string name="delete_all">Delete all local data</string>
+    <string name="delete_all_confirm_title">Delete all data?</string>
+    <string name="delete_all_confirm_body">All of your logs will be permanently removed from this device. This can’t be undone.</string>
+    <string name="delete_all_confirm">Delete everything</string>
+    <string name="deleted_all">All data deleted.</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Gut Elements logo, converted from docs/design/logo/logo.svg (64x64 viewBox). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <path
+        android:fillColor="@color/logo_plum"
+        android:pathData="M16,0H48A16,16 0,0 1,64 16V48A16,16 0,0 1,48 64H16A16,16 0,0 1,0 48V16A16,16 0,0 1,16 0Z" />
+    <path
+        android:pathData="M42.6,21.4A15,15 0,1 0,47 32H34"
+        android:strokeColor="@color/logo_cream"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:fillColor="@color/logo_coral"
+        android:pathData="M43.5,16.5a4,4 0,1 0,8 0a4,4 0,1 0,-8 0Z" />
+</vector>

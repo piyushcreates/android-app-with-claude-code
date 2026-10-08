@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="linen">#F4F0E7</color>
+    <!-- Brand logo colours (docs/design/logo/logo.svg) -->
+    <color name="logo_plum">#4A2639</color>
+    <color name="logo_cream">#FFFDF8</color>
+    <color name="logo_coral">#E8704F</color>
+</resources>
