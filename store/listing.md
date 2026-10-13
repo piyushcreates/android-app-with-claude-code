@@ -35,7 +35,7 @@ ABOUT THE BRISTOL STOOL SCALE
 The Bristol Stool Scale describes stool form in seven types, from separate hard lumps (Type 1) to entirely liquid (Type 7). Types 3 and 4 are generally considered the typical range.
 
 FROM GUT ELEMENTS
-Gut Elements publishes independent, evidence-aware information on gut health and fiber supplements at gutelements.com.
+Gut Elements publishes simple guides on keeping a bowel diary at gutelements.com.
 
 IMPORTANT
 Gut Elements is for personal tracking and education. It is not a medical device and does not diagnose, treat or give medical advice. If you have persistent changes or concerns, speak with a qualified healthcare professional.

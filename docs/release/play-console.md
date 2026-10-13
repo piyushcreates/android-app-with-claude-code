@@ -50,10 +50,8 @@ The app's **Dashboard** shows a "Set up your app" checklist. Each item links to 
 - **Keep it in sync.** If a later version adds analytics, crash reporting, cloud sync or anything that sends data off the device, this form, the privacy policy and the listing's "Private by design" claims must change *before* that version ships.
 
 ### Health apps
-- **Step 1, Health features:** tick **Other** only, with this description:
-  > Personal bowel movement tracking: users log stool type (Bristol Stool Scale 1–7) with date and time, review their history and see simple statistics. Data stays on the device. Not a medical device; no diagnosis or treatment.
-- Don't tick **Diseases and conditions management**, **Medical device apps** or **Medical reference and education**. They describe the app as a medical tool and bring stricter review or regulatory questions.
-- Don't tick **My app does not have any health features**. That's not true for this app.
+- **Step 1, Health features:** tick **Diseases and conditions management** only. Google rejected the first submission ("Inaccurate Health Apps Declaration") when only **Other** was ticked, because a bowel tracker counts as tracking a health condition.
+- Don't tick **Other**, **Medical device apps** or **My app does not have any health features**.
 - **Step 2, Regional requirements:** if asked whether the app is a regulated medical device or needs clearance anywhere → **No / Not applicable**.
 
 ## 3. Store settings and store listing
